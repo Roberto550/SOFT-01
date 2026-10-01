@@ -57,3 +57,5 @@ else:
 total = precio_despues_cantidad - descuento_estudiante
 print("Total:", total)
 
+print("hola")
+
